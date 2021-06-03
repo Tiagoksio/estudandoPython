@@ -6,4 +6,5 @@
 - Mostre a tabuada de um número;
 - Calcule a quantidade de tinta necessária para pintar uma parede quadrada, considerando que cada litro pinta 2m²;
 - Calcule descontos e aumentos com regras de porcentagem;
-- Converta temperaturas
+- Converta temperaturas;
+- Escreva um programa que pergunte a quantidade de KMs percorridos e a quantidade de dias pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por km rodado.
