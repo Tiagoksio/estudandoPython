@@ -1,0 +1,2 @@
+num = int(input('Informe um número: '))
+print('O antecessor de {} é {}, e seu sucessor é {}\nSeu dobro é {}\nSeu triplo é {}\nE sua raíz quadrada é {:.4f}'.format(num, num - 1, num + 1, num * 2, num * 3, num ** (1/2)))
