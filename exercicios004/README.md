@@ -1,0 +1,12 @@
+# Lista de Exercícios 004
+- Crie um programa que leia o nome completo de uma pessoa e mostre:
+    - O nome com todas as letras maiúsculas;
+    - Quantas letras ao todo, sem considerar os espaços;
+    - Quantas letras tem o primeiro nome;
+    - Mostre o primeiro e o último nome separedamente;
+- Faça um programa que leia um número de 0 a 9999 e mostre na tela cada um dos dígitos separados em milhares, centenas, dezenas e unidades;
+- Crie um programa que leia o nome de uma pessoa e diga se ele termina ou tem "SILVA" no nome;
+- Faça um programa que leia uma frase pelo teclado e mostre:
+    - Quantas vezes aparece a letra "A";
+    - Em que posição ela aparece pela primeira vez;
+    - Em que posição ela aparece pela última vez.
