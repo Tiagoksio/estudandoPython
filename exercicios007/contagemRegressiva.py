@@ -9,6 +9,6 @@ if iniciar == 's':
         sleep(0.5)
     print('FELIZ ANO NOVO!!!')
     mixer.init()
-    musica = mixer.Sound('/home/tksio/Documentos/Python/exercicios007/fireworks.ogg')
+    musica = mixer.Sound('caminho-do-arquivo/fireworks.ogg')
     musica.play(-1)
     parar = input('APERTE QUALQUER TECLA PARA SAIR...')
