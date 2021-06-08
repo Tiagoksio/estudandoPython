@@ -1,0 +1,18 @@
+# Lista de Exercícios 007
+- Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0, com uma pausa de 1 segundo entre eles;
+- Faça um programa que mostre todos os números pares que estão no intervalo entre 1 e 50;
+- Faça um programa que calcule a soma entre todos os números impares que são múltiplos de três e que se encontram no intervalo de 1 até 500;
+- Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares. Se o valor digitado for impar, descosidere-o;
+- Desenvolva um programa que leia o primeiro termo e a razão de uma progressão aritmética. No final, mostre os 10 primeiros termos dessa progressão;
+- Faça um programa que leia um número inteiro e diga se ele é ou não um número primo;
+- Crie um programa que leia uma frase qualquer e diga se ela é um palidromo, desconsiderando os espaços. Exemplos de palíndromos:
+    - APOS A SOPA;
+    - A SACADA DA CASA;
+    - A TORRE DA DERROTA;
+    - O LOBO AMA O BOLO;
+    - ANOTARAM A DATA DA MARATONA.
+- Crie um programa que leia o ano de nascimento de sete pessoas, no final, mostre quantas pessoas ainda não atingiram a maioridade e quantas já são maiores, informe a mediana das idades e a moda;
+- Desenvolva um programa que leia o nome, idade e sexo de 4 pessoas. No final do programa, mostre:
+    - A média da idade do grupo;
+    - Qual é o nome do homem mais velho;
+    - Quantas mulheres tem menos de 20 anos.
