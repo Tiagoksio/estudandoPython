@@ -18,8 +18,8 @@ for h in range(0,3):
         matriz[h][v].append(num)
 for h in range(0,3):
     for v in range(0,3):
-        print(f'{matriz[h][v]} ', end='')
-    print('\n')
+        print(f'{matriz[h][v]}', end='')
+    print()
 print(f'A soma dos valores pares é: {somaPar}')
 print(f'A soma dos valores da terceira coluna são: {somaTerCol}')
 print(f'O maior valor da segunda linha é: {maiorSegLin}')
