@@ -1,4 +1,4 @@
-# SELECTION SORT - Algoritmo de seleção -> Ultilizado para ordenar uma lista
+# SELECTION SORT - Algoritmo de seleção -> Ultilizado para ordenar uma lista levando o menor valor para o inicio da lista
 import random
 
 def selection_sort(list):
